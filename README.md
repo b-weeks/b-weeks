@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Becky 👋
+- I'm currently working on a full-stack application using React, Django, Python, and JavaScript 🔭 
+- I worked on the thrifting and environmentally conscious mobile web application [tokyothrift.org](http://tokyothrift.org/) 🌱
+- You can also find me on [LinkedIn](https://www.linkedin.com/in/rebeccaw-/) 📫
+
 
 <!--
 **b-weeks/b-weeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
